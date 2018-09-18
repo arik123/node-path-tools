@@ -59,4 +59,4 @@ exports.existsInPath = function(searched){
     return(typeof getLoc(searched) != "undefined");
 }
 
-console.log(typeof getLoc("git") != "undefined");
+//console.log(typeof getLoc("git") != "undefined");
