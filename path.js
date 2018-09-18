@@ -1,5 +1,5 @@
 const path = require('path');
-const exec = require('child-process').exec;
+const exec = require('child_process').exec;
 const fs = require("fs")
 const os = require('os');
 var pathFiles = process.env.PATH.split(path.delimiter);
