@@ -1,6 +1,6 @@
 {
   "name": "node-windows-path",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "main": "path.js",
   "license": "MIT",
   "repository": {
