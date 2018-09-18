@@ -1,0 +1,15 @@
+{
+  "name": "node-path-tools",
+  "version": "1.0.0",
+  "main": "path.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arik123/node-path-tools"
+  },
+  "keywords": [
+    "path",
+    "$path",
+    "%PATH%"
+  ]
+}
