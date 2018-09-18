@@ -1,15 +1,15 @@
 {
-  "name": "node-path-tools",
-  "version": "1.0.1",
+  "name": "node-windows-path",
+  "version": "1.0.4",
   "main": "path.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arik123/node-path-tools"
+    "url": "https://github.com/arik123/node-windows-path"
   },
   "keywords": [
     "path",
-    "$path",
+    "windows path",
     "%PATH%"
   ]
 }
